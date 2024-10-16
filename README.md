@@ -1,1 +1,1 @@
-# tareas_bootcamp_coding_dojo
+# En este repositorio se subiran las tareas realizadas
