@@ -1,3 +1,5 @@
+#Archivo .py
+
 matriz = [ [10, 15, 20], [3, 7, 14] ]
 cantantes = [
     {"nombre": "Ricky Martin", "pais": "Puerto Rico"},
