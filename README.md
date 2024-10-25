@@ -16,5 +16,13 @@ Las tareas Core del Pre-Bootcamp se encuentran en la carpeta **tareas_core_prebo
 **La estructura de carpetas es la siguiente:**
  
 * mod_1_data_fundamentals   ----> Carpeta en la que estan las tareas correspondientes al **MÓDULO 1**
-  - 1_tareas_core_bootcamp   ---> Carpeta en la que estan todas la tareas CORE, excepto el proyecto
-  - 2_proyecto_retail_sales_analysis ---> Carpeta en la que estan todas la tareas CORE del Proyecto I
+  * 1_tareas_core_bootcamp   ---> Carpeta en la que estan todas la tareas CORE, excepto el proyecto
+  * 2_proyecto_retail_sales_analysis ---> Carpeta en la que estan todas la tareas CORE del Proyecto I
+    - data --------> Carpeta en la que se encuentra el dataset del Proyecto 1
+    - notebooks --------> Carpeta en la que se encuentra los nootebooks del Proyecto 1 subdivididas en partes
+        + proyecto_parte_1 
+            - p1_retail_sales_analysis.ipynb
+        + proyecto_parte_2
+            - p2_retail_sales_analysis.ipynb
+        ...
+    - README.md ---> Es el readme del Proyecto I 
